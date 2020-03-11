@@ -1,0 +1,534 @@
+D:\Guilherme\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+D:\Guilherme\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+D:\Guilherme\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+D:\Guilherme\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+D:\Guilherme\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Form1.resources
+D:\Guilherme\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+D:\Guilherme\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+D:\Guilherme\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+D:\Guilherme\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\guilherme.msouza\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.msouza\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\guilherme.msouza\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\gui_s\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\gui_s\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\gui_s\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\gui_s\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\gui_s\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\gui_s\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\gui_s\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\gui_s\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\gui_s\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\gui_s\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+E:\SistemaLoja\SistemaLoja  310517\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+E:\SistemaLoja\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+E:\SistemaLoja\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja  310517\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaMarca.resources
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\gui_s\Desktop\SistemaLoja-Guilherme\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaFuncionario.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCargo.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaFuncionario.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaMarca.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\gui_s\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCliente.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCliente.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-280617\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCargo.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCliente.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCargo.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaFuncionario.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaMarca.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+C:\Users\gui_s\Desktop\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCargo.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCliente.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCargo.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCategoria.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaFuncionario.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaMarca.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelClientes.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelFuncionarios.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja-030717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCliente.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelFuncionarios.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaFuncionario.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+C:\Users\guilherme.msouza\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCliente.resources
+E:\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+E:\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+E:\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCargo.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCliente.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCargo.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCategoria.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCliente.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelProduto.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelFuncionarios.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaFuncionario.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaMarca.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\MetroFramework.dll
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gui_s\Desktop\SistemaLoja-040717\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Login.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\bin\Debug\MetroFramework.dll
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCargo.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCliente.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCargo.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCategoria.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCliente.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Login.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelProduto.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelFuncionarios.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaFuncionario.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaMarca.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de login 01\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.RecuperarSenha.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\MetroFramework.dll
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCargo.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCliente.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCargo.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCategoria.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCliente.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Login.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelProduto.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelFuncionarios.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaFuncionario.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaMarca.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.RecuperarSenha.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+C:\Users\gui_s\Desktop\Sistema Loja Senac\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\MetroFramework.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCliente.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCliente.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Login.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelFuncionarios.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaFuncionario.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.RecuperarSenha.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de designer de login\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCliente.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCargo.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCliente.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Login.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelFuncionarios.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaFuncionario.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.RecuperarSenha.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\MetroFramework.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\guilherme.msouza\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendaCliGrid.resources
+C:\Users\gui_s\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\gui_s\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\Desktop\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.CodeAnalysisLog.xml
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.lastcodeanalysissucceeded
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\MetroFramework.dll
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCargo.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCliente.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCargo.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCategoria.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCliente.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendaCliGrid.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Login.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelProduto.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelFuncionarios.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaFuncionario.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaMarca.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.RecuperarSenha.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\area de trabalho - Guilherme\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\area de trabalho - Guilherme\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\area de trabalho - Guilherme\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\MetroFramework.dll
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojAssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCargo.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaCliente.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCargo.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCategoria.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCliente.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendaCliGrid.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Login.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelProduto.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelFuncionarios.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaFuncionario.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisaMarca.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPesquisarCategoria.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsultaProduto.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.RecuperarSenha.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.CopyComplete
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb

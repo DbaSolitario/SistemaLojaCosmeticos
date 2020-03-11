@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 14.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="14.0">
+ <Targets>
+  <Target Name="C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe">
+   <Modules>
+    <Module Name="sistemalojacosmeticos.exe">
+     <Namespaces>
+      <Namespace Name="SistemaLojaCosmeticos">
+       <Types>
+        <Type Name="classConexao" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2018-03-28 15:28:11Z" FixCategory="NonBreaking">
+           <Issue Name="NonBreaking" Certainty="95" Level="CriticalError">Implemente IDisposable em 'classConexao' porque cria membros dos seguintes tipos IDisposable: 'SqlConnection', 'SqlCommand', 'SqlDataAdapter'.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#ExecutaQuery(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar as consultas SQL em busca de vulnerabilidades de segurança" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-03-28 15:28:11Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos" File="classConexao.cs" Line="131">A cadeia de caracteres de consulta passada para 'SqlCommand.CommandText.set(string)' em 'classConexao.ExecutaQuery(string)' pode conter as seguintes variáveis 'query'. Se qualquer uma destas variáveis for proveniente da entrada do usuário, considere usar um procedimento armazenado ou uma consulta SQL parametrizada antes de compilar a consulta com concatenações de cadeias de caracteres.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ExecutaQueryID(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar as consultas SQL em busca de vulnerabilidades de segurança" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-03-28 15:28:11Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos" File="classConexao.cs" Line="157">A cadeia de caracteres de consulta passada para 'SqlCommand.SqlCommand(string, SqlConnection)' em 'classConexao.ExecutaQueryID(string)' pode conter as seguintes variáveis 'query'. Se qualquer uma destas variáveis for proveniente da entrada do usuário, considere usar um procedimento armazenado ou uma consulta SQL parametrizada antes de compilar a consulta com concatenações de cadeias de caracteres.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#RetornaDataTable(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar as consultas SQL em busca de vulnerabilidades de segurança" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-03-28 15:28:11Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\gui_s.DESKTOP-LCE92AA\Desktop\Principal\SistemaLoja- teste de Venda\SistemaLojaCosmeticos" File="classConexao.cs" Line="180">A cadeia de caracteres de consulta passada para 'SqlCommand.SqlCommand(string, SqlConnection)' em 'classConexao.RetornaDataTable(string)' pode conter as seguintes variáveis 'query'. Se qualquer uma destas variáveis for proveniente da entrada do usuário, considere usar um procedimento armazenado ou uma consulta SQL parametrizada antes de compilar a consulta com concatenações de cadeias de caracteres.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="SistemaLojaCosmeticos.Properties">
+       <Types>
+        <Type Name="Resources" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Assembly" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="ExcludedInSource" Created="2018-03-28 15:28:11Z" FixCategory="NonBreaking" LastSeen="0001-01-01 00:00:00Z" />
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811">
+   <Name>Evite código particular não chamado</Name>
+   <Description>Há um código não chamado que não é visível externamente e não é um ponto de entrada de tempo de execução conhecido. Se essa violação for disparada por engano, envie um relatório do problema para a equipe da Análise de Código do Visual Studio.</Description>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182264.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="Revisar as consultas SQL em busca de vulnerabilidades de segurança" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>Revisar as consultas SQL em busca de vulnerabilidades de segurança</Name>
+   <Description>Uma cadeia de caracteres de comando SQL compilada de uma entrada do usuário é vulnerável a ataques de injeção SQL. O Microsoft SQL Server e outros servidores de banco de dados oferecem suporte a procedimentos armazenados e consultas SQL parametrizadas, o que reduz o risco de ataques de injeção.</Description>
+   <Resolution Name="WithNonLiterals">A cadeia de caracteres de consulta passada para {0} em {1} pode conter as seguintes variáveis {2}. Se qualquer uma destas variáveis for proveniente da entrada do usuário, considere usar um procedimento armazenado ou uma consulta SQL parametrizada antes de compilar a consulta com concatenações de cadeias de caracteres.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001">
+   <Name>Tipos que possuem campos descartáveis devem ser descartáveis</Name>
+   <Description>Os tipos que declaram membros descartáveis também devem implementar IDisposable. Se o tipo não tiver recursos próprios não gerenciados, não implemente um finalizador nele.</Description>
+   <Resolution Name="NonBreaking">Implemente IDisposable em {0} porque cria membros dos seguintes tipos IDisposable: {1}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182172.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="14.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Categoria</String>
+  <String Key="Certainty">Certeza</String>
+  <String Key="CollapseAll">Recolher Tudo</String>
+  <String Key="CheckId">Verificar ID</String>
+  <String Key="Error">Erro</String>
+  <String Key="Errors">erro(s)</String>
+  <String Key="ExpandAll">Expandir Tudo</String>
+  <String Key="Help">Ajuda</String>
+  <String Key="Line">Linha</String>
+  <String Key="Messages">mensagem(ns)</String>
+  <String Key="LocationNotStoredInPdb">[Local não armazenado em Pdb]</String>
+  <String Key="Project">Projeto</String>
+  <String Key="Resolution">Resolução</String>
+  <String Key="Rule">Regra</String>
+  <String Key="RuleFile">Arquivo de Regra</String>
+  <String Key="RuleDescription">Descrição da Regra</String>
+  <String Key="Source">Origem</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Destino</String>
+  <String Key="Warning">Aviso</String>
+  <String Key="Warnings">aviso(s)</String>
+  <String Key="ReportTitle">Relatório de Análise de Código</String>
+ </Localized>
+</FxCopReport>

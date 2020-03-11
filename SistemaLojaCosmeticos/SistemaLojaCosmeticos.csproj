@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CAEA4493-CC63-4E1D-BF1B-B419B3F207B8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaLojaCosmeticos</RootNamespace>
+    <AssemblyName>SistemaLojaCosmeticos</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cargo\classCargo.cs" />
+    <Compile Include="frmVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVenda.Designer.cs">
+      <DependentUpon>frmVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venda\classItensVenda.cs" />
+    <Compile Include="Venda\classVenda.cs" />
+    <Compile Include="Cliente\classCliente.cs" />
+    <Compile Include="classConexao.cs" />
+    <Compile Include="Cargo\frmConsultaCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cargo\frmConsultaCargo.Designer.cs">
+      <DependentUpon>frmConsultaCargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\frmConsultaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\frmConsultaCliente.Designer.cs">
+      <DependentUpon>frmConsultaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cargo\frmRelCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cargo\frmRelCargo.Designer.cs">
+      <DependentUpon>frmRelCargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categoria\frmRelCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categoria\frmRelCategoria.Designer.cs">
+      <DependentUpon>frmRelCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\frmRelCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\frmRelCliente.Designer.cs">
+      <DependentUpon>frmRelCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\clLogin.cs" />
+    <Compile Include="login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produtos\frmRelProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produtos\frmRelProduto.Designer.cs">
+      <DependentUpon>frmRelProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcionarios\frmRelFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcionarios\frmRelFuncionarios.Designer.cs">
+      <DependentUpon>frmRelFuncionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcionarios\frmPesquisaFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcionarios\frmPesquisaFuncionario.Designer.cs">
+      <DependentUpon>frmPesquisaFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marca\frmRelMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marca\frmRelMarca.Designer.cs">
+      <DependentUpon>frmRelMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcionarios\classFuncionarios.cs" />
+    <Compile Include="Categoria\PesquisarCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categoria\PesquisarCategoria.Designer.cs">
+      <DependentUpon>PesquisarCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\RecuSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\RecuSenha.Designer.cs">
+      <DependentUpon>RecuSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marca\frmConsultaMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marca\frmConsultaMarca.Designer.cs">
+      <DependentUpon>frmConsultaMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cargo\frmCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cargo\frmCargo.Designer.cs">
+      <DependentUpon>frmCargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\frmClientes.Designer.cs">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categoria\frmCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categoria\frmCategoria.Designer.cs">
+      <DependentUpon>frmCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categoria\classCategoria.cs" />
+    <Compile Include="Marca\classMarca.cs" />
+    <Compile Include="Produtos\classProduto.cs" />
+    <Compile Include="Produtos\frmConsultaProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produtos\frmConsultaProduto.Designer.cs">
+      <DependentUpon>frmConsultaProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcionarios\frmFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcionarios\frmFuncionarios.Designer.cs">
+      <DependentUpon>frmFuncionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marca\frmMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marca\frmMarca.Designer.cs">
+      <DependentUpon>frmMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produtos\frmProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produtos\frmProduto.Designer.cs">
+      <DependentUpon>frmProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Cargo\frmCargo.resx">
+      <DependentUpon>frmCargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categoria\frmCategoria.resx">
+      <DependentUpon>frmCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\frmClientes.resx">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cargo\frmConsultaCargo.resx">
+      <DependentUpon>frmConsultaCargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\frmConsultaCliente.resx">
+      <DependentUpon>frmConsultaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cargo\frmRelCargo.resx">
+      <DependentUpon>frmRelCargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categoria\frmRelCategoria.resx">
+      <DependentUpon>frmRelCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\frmRelCliente.resx">
+      <DependentUpon>frmRelCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVenda.resx">
+      <DependentUpon>frmVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produtos\frmRelProduto.resx">
+      <DependentUpon>frmRelProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcionarios\frmRelFuncionarios.resx">
+      <DependentUpon>frmRelFuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcionarios\frmPesquisaFuncionario.resx">
+      <DependentUpon>frmPesquisaFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marca\frmRelMarca.resx">
+      <DependentUpon>frmRelMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marca\frmConsultaMarca.resx">
+      <DependentUpon>frmConsultaMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categoria\PesquisarCategoria.resx">
+      <DependentUpon>PesquisarCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produtos\frmConsultaProduto.resx">
+      <DependentUpon>frmConsultaProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcionarios\frmFuncionarios.resx">
+      <DependentUpon>frmFuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marca\frmMarca.resx">
+      <DependentUpon>frmMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produtos\frmProduto.resx">
+      <DependentUpon>frmProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produtos\rptProduto.rdlc" />
+    <EmbeddedResource Include="rbtCategoria.rdlc" />
+    <EmbeddedResource Include="rbtFuncionario.rdlc" />
+    <EmbeddedResource Include="login\RecuSenha.resx">
+      <DependentUpon>RecuSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptCargo.rdlc" />
+    <EmbeddedResource Include="rptCliente.rdlc" />
+    <EmbeddedResource Include="rptMarca.rdlc" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\classCargo.datasource" />
+    <None Include="Properties\DataSources\classCategoria.datasource" />
+    <None Include="Properties\DataSources\classCliente.datasource" />
+    <None Include="Properties\DataSources\classFuncionarios.datasource" />
+    <None Include="Properties\DataSources\classMarca.datasource" />
+    <None Include="Properties\DataSources\classProduto.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
